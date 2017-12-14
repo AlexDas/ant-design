@@ -36,4 +36,10 @@ export default {
   Select: {
     notFoundContent: 'Pas de résultat',
   },
+  Upload: {
+    uploading: 'Envoi en cours...',
+    removeFile: 'Supprimer le fichier',
+    uploadError: 'Erreur d\'envoi',
+    previewFile: 'Prévisualiser'
+  }
 };
